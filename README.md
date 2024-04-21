@@ -1,6 +1,6 @@
 # Custom Dropdown Select (React + Vite) 
 
-To demo, first run ``npm install`` then run ``npm run dev``.
+To demo,  first ``git clone`` this repository. Then, inside the project directory run ``npm install`` then run ``npm run dev``.
 
 
 
